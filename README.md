@@ -13,7 +13,9 @@ Let's chat!
 ### Technologies
 
 Data Science: R, Python (NumPy and Pandas), STATA
+
 Languages: JavaScript, Ruby, SQL, HTML5, CSS
+
 Frameworks & Libraries: React, Rails, jQuery
 
 
