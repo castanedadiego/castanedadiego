@@ -1,4 +1,4 @@
-### ABOUT ME
+### About Me
 
 Hi there, I'm Diego 👋
 
