@@ -6,18 +6,20 @@ I am a software engineer with a passion for solving hard problems and a business
 
 I was born in Dallas but have lived in over 10 different cities between 3 countries and speak Spanish and Portuguese. When not coding, you can catch me playing tennis, reading, or enjoying music. I love to learn and some of my favorite topics to read and write about are: probability/ game theory, the economics of the tech industry, and mindfulness.
 
+I am interested in Web 3.0 and decentralized apps, and am currently building something new on the Cardano network.
+
 Let's chat!
 
 
 ### Technologies
 
-Languages: Python, JavaScript, Ruby, SQL, HTML5, CSS, Linux CLI
+Languages: Python, Haskell, JavaScript, Ruby, SQL, HTML5, CSS, Linux CLI
 
 Databases: Redis, GraphQL, SQL, MongoDB. 
 
 Data Science: R, Pandas, sklearn, STATA
 
-Other: AWS (S3 and EC2)
+Other: AWS (S3 and EC2), Plutus
 
 Frameworks: React, Rails
 
