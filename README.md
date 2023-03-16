@@ -13,15 +13,15 @@ Let's chat!
 
 ### Technologies
 
-Languages: Python, Haskell, JavaScript, Ruby, SQL, HTML5, CSS, Linux CLI
+Languages: Python!!, JavaScript, Ruby, SQL, HTML5, CSS, Linux CLI
 
-Databases: Redis, GraphQL, SQL, MongoDB. 
+Databases: Redis, PostGres,  GraphQL, , MongoDB. 
 
 Data Science: R, Pandas, sklearn, STATA
 
-Other: AWS (S3 and EC2), Plutus
+Other: AWS
 
-Frameworks: React, Rails
+Frameworks: React, Django (with rest_api_framework)
 
 
 
