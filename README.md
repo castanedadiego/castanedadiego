@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there, I'm Diego 👋
+Hi there, I'm Diego Castaneda.
 
 I am a software engineer with a passion for solving hard problems and a business value-add mindset. Previously, I built spreadsheets and analyzed bond investments at Travelers. I studied Applied Computational Math & Economics at Notre Dame.
 
@@ -15,13 +15,13 @@ Let's chat!
 
 Languages: Python!!, JavaScript, Ruby, SQL, HTML5, CSS, Linux CLI
 
-Databases: Redis, PostGres,  GraphQL, , MongoDB. 
+Databases: Redis, PostGres, GraphQL, MongoDB. 
 
 Data Science: R, Pandas, sklearn, STATA
 
-Other: AWS
+Other: AWS, Tailwind CSS
 
-Frameworks: React, Django (with rest_api_framework)
+Frameworks: Next.js, React, Django (with rest_api_framework)
 
 
 
