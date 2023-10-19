@@ -24,7 +24,7 @@ Other: AWS, Tailwind CSS
 Frameworks: Next.js, React, Django (with rest_api_framework)
 
 
-
+https://www.linkedin.com/in/castanedadiego/
 
 <!--
 **castanedadiego/castanedadiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
