@@ -4,7 +4,7 @@ Hi there, I'm Diego Castaneda.
 
 I am a software engineer with a passion for solving hard problems and a business value-add mindset. Previously, I built spreadsheets and analyzed bond investments at Travelers. I studied Applied Computational Math & Economics at Notre Dame.
 
-I was born in Dallas but have lived in over 10 different cities between 3 countries and speak Spanish and Portuguese. When not coding, you can catch me playing tennis, reading, or enjoying music. I love to learn and some of my favorite topics to read and write about are: probability/ game theory, the economics of the tech industry, and mindfulness.
+I was born in Dallas but have lived in over 10 different cities between 3 countries and speak Spanish and Portuguese. When not coding, you can catch me playing tennis, reading, or enjoying music. I love to learn and some of my favorite topics to read and write about are: probability/ game theory, finance/economics, and web3.
 
 I am interested in Web 3.0 and decentralized apps, and am currently building something new on the Cardano network.
 
